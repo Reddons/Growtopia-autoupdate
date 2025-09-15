@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<Resources>
+	<String id="[TEST_TITLE]">`6Growtopia``</String>
+	<String id="[TEST_TEXT]">`3line 1``
+	`5line 2
+	`7line 3````</String>
+	<String id="[TEST_BTN1]">Cancel</String>
+	<String id="[TEST_BTN2]">Ok</String>
+	<String id="[TEST_DESCR]">Descr str</String>
+	<String id="[FEATURE_WELCOME_TITLE]">You've got `2Grow-Mail``!</String>
+	<String id="[FEATURE_WELCOME_DESCR]">Join the fun with your fellow Growtopians!</String>
+	<String id="[FEATURE_WELCOME_BODY]">
+		`oThe `2Mailbox`` has arrived! Sealed with fun, stamped with surprises, and always first-class!
+		&nbsp;
+		&nbsp;
+		Hey there, Growtopian!
+		Introducing the brand-new `2Mailbox``, your all-in-one hub for `wofficial messages`` and `8surprise rewards`` from the `6Growtopia Team``!
+		&nbsp;
+		&nbsp;
+		Whether it's a nifty `5gift``, a `4system update``, or a little something just because - it'll all be delivered straight to your `2Mailbox``! No more missed messages, no more reward rush! Each message or reward comes with an expiry timer, so you can grab them when you feel ready (just make sure you've got some inventory space before claiming, nobody likes a packed pocket!).
+		&nbsp;
+		And don't worry, this box is strictly business (no Growtopian fan mails just yet).
+		&nbsp;
+		So what are you waiting for? Pop open your `2Mailbox`` and see what's inside! Who knows what surprises are envelope-ing you!?
+		&nbsp;
+		Signed, Sealed, Delivered - it's all yours!
+		&nbsp;
+		~ `6The Growtopia Team```
+	</String>
+
+
+
+	<!--Auction Block-->
+	<String id="[AUC_BLOCK_SETUP_DESCRIPTION]">Sell your items through auction. Once the auction starts you will not be able to cancel the auction. When the auction ends, whatever the final bid ends up being will be the sale price so choose your starting bid carefully.&#10; </String>
+	<String id="[AUC_BLOCK_SETUP_INCOMPLETE]">You need to fill all the above sections before you can begin this auction.</String>
+	<String id="[AUC_BLOCK_SETUP_INVALID_ITEM]">That item can't be sold at auction! Please try another item.</String>
+	<String id="[AUC_BLOCK_NON_OWNER_SETUP]">Only the owner can setup the auction.</String>
+	<String id="[AUC_BLOCK_BID_DESCRIPTION]">Buy items through this auction block.&#10;&#10;Place your bids but remember, the final bid when the auction ends will be the sale price so choose your bid carefully. Once placed you can't withdraw your bid until the auction ends.&#10; </String>
+	<String id="[AUC_BLOCK_BID_OWNER]">&#10;The owner can't bid on their own auction.</String>
+	<String id="[AUC_BLOCK_BID_NONE]">No Bid Placed</String>
+	<String id="[AUC_MAIN_UI_DESC]">There {} currently `5{}`` auction{}{}.</String>
+	
+
+	<String id="[mail_auctionfail_title]">Auction Failed!</String>
+	<String id="[mail_auctionfail_desc]">There were no bids for your `2{}`` in {}.</String>
+	<String id="[mail_auctionfail_body]">There were no bids for your auction.&#10;&#10;`2 {}`` was not sold in {}.&#10;&#10;Reclaim your item now.</String>
+	<String id="[mail_auctionsuccess_title]">Auction Won!</String>
+	<String id="[mail_auctionsuccess_desc]">`2 {}`` bought for `5{} WL``!</String>
+	<String id="[mail_auctionsuccess_body]">You were the winning bid for the`2{}`` in {}.&#10;&#10;`5{} WL`` have been transferred from your World Lock Bank to the Seller.&#10;&#10;Claim your item now.</String>
+	<String id="[mail_auctionsuccessowner_title]">Auction Item Sold!</String>
+	<String id="[mail_auctionsuccessowner_desc]">`2{}`` was successfully sold for `5{} WL`` in {}.</String>
+	<String id="[mail_auctionsuccessowner_body]">`2{}`` was successfully sold for `5{} WL`` in {}.&#10;&#10;The world locks have been added to your World Lock Bank.</String>
+	<String id="[mail_auctionfailbidder_title]">Auction Ended!</String>
+	<String id="[mail_auctionfailbidder_desc]">You were not the winning bid.</String>
+	<String id="[mail_auctionfailbidder_body]">You were not the winning bid.&#10;&#10;`5{} WL`` have been unblocked in your World Lock Bank for use in another auction.</String>
+	
+	<String id="[mail_mailharv2025_body]">Hey Growtopian,&#10; &#10;`8HarvestFest`` is here—jump in today to harvest trees under the moonlight, gather Mooncakes & Songpyeons, and craft them into festive treasures! &#10;It's the season to celebrate together and enjoy one of Growtopia's most cherished traditions.  This year, don't miss the exclusive Gromoji's Little Partner—only during HarvestFest! &#10;Need an extra boost? Use Mooncake Magnificence to increase your Mooncake drops!&#10;Or create your very own harvest world with Harvest Blast, filled with 99 random trees and even rare Cherry Blossoms for Purity Mooncakes! &#10;&#10;`2We've prepared a little gift to kick things off—enjoy the Harvest moon and start celebrating today! ``&#10; &#10;Growtopia Team</String>
+	<String id="[mail_mailharv2025_title]">A Gift Awaits You This HarvestFest</String>
+	<String id="[mail_mailharv2025_desc]">Jump in now, harvest trees, and discover new surprises—only during this year's festival!</String>
+
+	  
+</Resources>
